@@ -1,0 +1,304 @@
+{
+  "players": [
+    {
+      "id": 1,
+      "name": "C. Ronaldo",
+      "image": "https://futhead.cursecdn.com/static/img/14/players/20801.png",
+      "position": "Forward"
+    },
+    {
+      "id": 2,
+      "name": "Messi",
+      "image": "https://www.futwiz.com/assets/img/fifa20/faces/158023.png",
+      "position": "Forward"
+    },
+    {
+      "id": 3,
+      "name": "Pele",
+      "image": "https://futhead.cursecdn.com/static/img/18/players/800043.png",
+      "position": "Forward"
+    },
+    {
+      "id": 4,
+      "name": "Neymar",
+      "image": "https://fmdataba.com/images/p2/630284.png",
+      "position": "Forward"
+    },
+    {
+      "id": 5,
+      "name": "Maradona",
+      "image": "https://www.futwiz.com/assets/img/fifa18/faces/190042.png",
+      "position": "Forward"
+    },
+    {
+      "id": 6,
+      "name": "Henry",
+      "image": "https://i.pinimg.com/originals/db/43/14/db4314f53d2c46c96629dbf977cf7075.png",
+      "position": "Forward"
+    },
+    {
+      "id": 7,
+      "name": "Ronaldo N.",
+      "image": "https://futhead.cursecdn.com/static/img/18/players/800057.png",
+      "position": "Forward"
+    },
+    {
+      "id": 8,
+      "name": "Zidane",
+      "image": "https://futhead.cursecdn.com/static/img/20/players/icon-stories/1397.png",
+      "position": "Midfielder"
+    },
+    {
+      "id": 9,
+      "name": "Cruyff",
+      "image": "https://fut-watch.com/img/19/headshot/2222220370-large.png?v=20",
+      "position": "Forward"
+    },
+    {
+      "id": 10,
+      "name": "Beckenbauer",
+      "image": "https://futhead.cursecdn.com/static/img/15/players/168473.png",
+      "position": "Defender"
+    },
+    {
+      "id": 11,
+      "name": "Modric",
+      "image": "https://www.futwiz.com/assets/img/fifa18wc/faces/177003.png",
+      "position": "Midfielder"
+    },
+    {
+      "id": 12,
+      "name": "Maldini",
+      "image": "https://www.thesportsdb.com/images/media/player/cutout/qtwrvx1475935364.png",
+      "position": "Defender"
+    },
+    {
+      "id": 13,
+      "name": "Yashin",
+      "image": "https://futhead.cursecdn.com/static/img/19/players/icon-stories/238380.png",
+      "position": "Goalkeeper"
+    },
+    {
+      "id": 14,
+      "name": "Buffon",
+      "image": "https://futhead.cursecdn.com/static/img/19/players/1179.png",
+      "position": "Goalkeeper"
+    },
+    {
+      "id": 15,
+      "name": "Xavi",
+      "image": "https://futhead.cursecdn.com/static/img/14/players/10535.png",
+      "position": "Midfielder"
+    },
+    {
+      "id": 16,
+      "name": "Iniesta",
+      "image": "https://futhead.cursecdn.com/static/img/14/players/41.png",
+      "position": "Midfielder"
+    },
+    {
+      "id": 17,
+      "name": "B. Moore",
+      "image": "https://futhead.cursecdn.com/static/img/20/players/icon-stories/190044.png",
+      "position": "Defender"
+    },
+    {
+      "id": 18,
+      "name": "Matthaus",
+      "image": "https://www.futwiz.com/assets/img/fifa20/faces/238435.png",
+      "position": "Midfielder"
+    },
+    {
+      "id": 19,
+      "name": "Ronaldinho",
+      "image": "https://futhead.cursecdn.com/static/img/18/players/1238395.png",
+      "position": "Midfielder"
+    },
+    {
+      "id": 20,
+      "name": "van Basten",
+      "image": "https://futhead.cursecdn.com/static/img/15/players/192181.png",
+      "position": "Forward"
+    },
+    {
+      "id": 21,
+      "name": "Baresi",
+      "image": "https://futhead.cursecdn.com/static/img/21/players/icon-stories/239527.png",
+      "position": "Defender"
+    },
+    {
+      "id": 22,
+      "name": "Baggio",
+      "image": "https://futhead.cursecdn.com/static/img/19/players/icon-stories/243078.png",
+      "position": "Forward"
+    },
+    {
+      "id": 23,
+      "name": "Cannavaro",
+      "image": "https://futhead.cursecdn.com/static/img/14/players/1183.png",
+      "position": "Defender"
+    },
+    {
+      "id": 24,
+      "name": "Ramos",
+      "image": "https://futhead.cursecdn.com/static/img/14/players/155862.png",
+      "position": "Defender"
+    },
+    {
+      "id": 25,
+      "name": "Pirlo",
+      "image": "https://futhead.cursecdn.com/static/img/15/players/7763.png",
+      "position": "Midfielder"
+    },
+    {
+      "id": 26,
+      "name": "Casillas",
+      "image": "https://futhead.cursecdn.com/static/img/16/players/5479.png",
+      "position": "Goalkeeper"
+    },
+    {
+      "id": 27,
+      "name": "Neuer",
+      "image": "https://futhead.cursecdn.com/static/img/19/players/167495.png",
+      "position": "Goalkeeper"
+    },
+    {
+      "id": 28,
+      "name": "Mbappe",
+      "image": "https://futhead.cursecdn.com/static/img/19/players/231747.png",
+      "position": "Forward"
+    },
+    {
+      "id": 29,
+      "name": "Nesta",
+      "image": "https://www.fifplay.com/img/fifa/18/players/239063.png",
+      "position": "Defender"
+    },
+    {
+      "id": 30,
+      "name": "Alves",
+      "image": "https://futhead.cursecdn.com/static/img/14/players/146530.png",
+      "position": "Defender"
+    },
+    {
+      "id": 31,
+      "name": "R. Carlos",
+      "image": "https://futhead.cursecdn.com/static/img/15/players/1040.png",
+      "position": "Defender"
+    },
+    {
+      "id": 32,
+      "name": "Kahn",
+      "image": "https://fifaaddict.com/fo3img/players/p31000488.png?2018",
+      "position": "Goalkeeper"
+    },
+    {
+      "id": 33,
+      "name": "Cech",
+      "image": "https://futhead.cursecdn.com/static/img/14/players/48940.png",
+      "position": "Goalkeeper"
+    },
+    {
+      "id": 34,
+      "name": "Donnarumma",
+      "image": "https://futhead.cursecdn.com/static/img/19/players/230621.png",
+      "position": "Goalkeeper"
+    },
+    {
+      "id": 35,
+      "name": "Gerrard",
+      "image": "https://cdn.soccerwiki.org/images/player/1004.png",
+      "position": "Midfielder"
+    },
+    {
+      "id": 36,
+      "name": "Lampard",
+      "image": "https://futhead.cursecdn.com/static/img/14/players/5471.png",
+      "position": "Midfielder"
+    },
+    {
+      "id": 37,
+      "name": "Beckham",
+      "image": "https://futhead.cursecdn.com/static/img/21/players/259431.png",
+      "position": "Midfielder"
+    },
+    {
+      "id": 38,
+      "name": "Puyol",
+      "image": "https://cdn.staticneo.com/w/footballmanager/4206586.png",
+      "position": "Defender"
+    },
+    {
+      "id": 39,
+      "name": "Pique",
+      "image": "https://futhead.cursecdn.com/static/img/21/players/152729.png",
+      "position": "Defender"
+    },
+    {
+      "id": 40,
+      "name": "T. Silva",
+      "image": "https://futhead.cursecdn.com/static/img/21/players/164240.png",
+      "position": "Defender"
+    },
+    {
+      "id": 41,
+      "name": "van der Sar",
+      "image": "https://futhead.cursecdn.com/static/img/17/players/51539.png",
+      "position": "Goalkeeper"
+    },
+    {
+      "id": 42,
+      "name": "Lewandowski",
+      "image": "https://www.futwiz.com/assets/img/fifa20/faces/188545.png",
+      "position": "Forward"
+    },
+    {
+      "id": 43,
+      "name": "Ibrahimovic",
+      "image": "https://futhead.cursecdn.com/static/img/20/players/41236.png",
+      "position": "Forward"
+    },
+    {
+      "id": 44,
+      "name": "Ferdinand",
+      "image": "https://futhead.cursecdn.com/static/img/14/players/7289.png",
+      "position": "Defender"
+    },
+    {
+      "id": 45,
+      "name": "Lahm",
+      "image": "https://futhead.cursecdn.com/static/img/14/players/121939.png",
+      "position": "Defender"
+    },
+    {
+      "id": 46,
+      "name": "Fabregas",
+      "image": "https://futhead.cursecdn.com/static/img/20/players/162895.png",
+      "position": "Defender"
+    },
+    {
+      "id": 47,
+      "name": "Pepe",
+      "image": "https://futhead.cursecdn.com/static/img/17/players/120533.png",
+      "position": "Defender"
+    },
+    {
+      "id": 48,
+      "name": "Giggs",
+      "image": "https://futhead.cursecdn.com/static/img/14/players/241.png",
+      "position": "Midfielder"
+    },
+    {
+      "id": 49,
+      "name": "De Bruyne",
+      "image": "https://www.futwiz.com/assets/img/fifa20/faces/192985.png",
+      "position": "Midfielder"
+    },
+    {
+      "id": 50,
+      "name": "Rooney",
+      "image": "https://futhead.cursecdn.com/static/img/19/players/54050.png",
+      "position": "Forward"
+    }
+  ]
+}
